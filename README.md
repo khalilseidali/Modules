@@ -1,5 +1,5 @@
 # Modules
-Based on my experiences, the more modular the hardware design is, in building a system or device (whether industrial or educational), the healthier your nerves will be at the end of the project. 
+Based on my experiences,in the production process, the more modular the hardware design is (whether industrial or educational), the healthier your nerves will be at the end of the project. 
 Because :
 
 1. Soldering and assembling will be much easier (especially in mass production circulation)
